@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "Auburn Skatepark",
+    "type": "transition",
+    "material": "concrete",
+    "address": "855 Pacific Ave, Auburn, CA 95603",
+		"avgRating": {
+										"security": 2,
+										"pedTraffic": 4,
+										"difficulty": 7
+								 }
+  },  
+  {
+    "id": 1,
+    "name": "Brentwood Skatepark",
+    "type": "transition",
+    "material": "concrete",
+    "address": "195 Griffith Ln, Brentwood, CA 94513",
+		"avgRating": {
+										"security": 2,
+										"pedTraffic": 4,
+										"difficulty": 7
+								 }
+  },  
+  {
+    "id": 2,
+    "name": "Chino Skatepark",
+    "type": "transition",
+    "material": "concrete",
+    "address": "5413 Edison Ave, Chino, CA 91710",
+		"avgRating": {
+										"security": 2,
+										"pedTraffic": 4,
+										"difficulty": 7
+								 }
+  },  
+  {
+    "id": 3,
+    "name": "Corning Skatepark",
+    "type": "transition",
+    "material": "concrete",
+    "address": "1485 Toomes Ave, Corning, CA 96021",
+		"avgRating": {
+										"security": 2,
+										"pedTraffic": 4,
+										"difficulty": 7
+								 }
+  },  
+  {
+    "id": 4,
+    "name": "Fremont Skatepark",
+    "type": "transition",
+    "material": "concrete",
+    "address": "40500 Paseo Padre Pkwy, Fremont, CA 94538",
+		"avgRating": {
+										"security": 2,
+										"pedTraffic": 4,
+										"difficulty": 7
+								 }
+  },  
+  {
+    "id": 5,
+    "name": "Granite Skatepark",
+    "type": "transition",
+    "material": "concrete",
+    "address": "8200 Ramona Ave, Sacramento, CA 95125",
+		"avgRating": {
+										"security": 2,
+										"pedTraffic": 4,
+										"difficulty": 7
+								 }
+  }
+]
